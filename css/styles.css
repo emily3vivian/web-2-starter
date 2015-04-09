@@ -1,0 +1,11 @@
+/* Your Styling */
+h1{
+	background: teal;
+	height: 100px;
+	width: 100px;
+	margin: 2em auto 0 auto;
+
+	/*horz center*/
+	text-align: center;
+	line-height: 100px;
+}
